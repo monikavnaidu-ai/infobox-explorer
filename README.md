@@ -55,3 +55,6 @@ infobox-explorer/
 ├── app.py
 ├── README.md
 └── requirements.txt
+## 📸 Application Screenshot
+
+![Infobox Explorer](screenshots/app_screenshot.png)
